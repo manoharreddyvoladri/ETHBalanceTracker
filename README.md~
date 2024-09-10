@@ -4,7 +4,7 @@ Here's a detailed `README.md` file for your Ethereum Deposit Tracker project, re
 
 # Ethereum Deposit Tracker
 
-This project is an **Ethereum Deposit Tracker** designed to monitor and record ETH deposits on the Beacon Deposit Contract. It uses the **MERN Stack** (MongoDB, Express, React, Node.js), **Python** for blockchain interaction, and **Docker** for containerization. Additionally, it integrates **Grafana** for real-time visualization and **Telegram** notifications to alert users when new deposits are detected.
+This project is an **Ethereum Deposit Tracker** designed to monitor and record ETH deposits on the Beacon Deposit Contract. It uses the **MongoDB**, **Expressjs**,**Node.js**, **Python** for blockchain interaction, and **Docker** for containerization. Additionally, it integrates **Grafana** for real-time visualization and **Telegram** notifications to alert users when new deposits are detected.
 
 ### Table of Contents
 
@@ -40,8 +40,7 @@ ethereum-deposit-tracker/
 ├── backend/                  # Backend files (Express.js API)
 │   ├── routes/
 │   ├── models/
-│   └── server.js
-├── frontend/                 # (Optional) Frontend code (React.js)
+│   └── server.js              
 ├── scripts/                  # Python script for tracking deposits
 │   └── deposit_tracker.py
 ├── Dockerfile                # Docker configuration for Python
@@ -195,8 +194,9 @@ PORT=5000
 
 3. Receive **Telegram notifications** for new deposits on the Beacon Contract.
 
-4. Monitor the system with **Grafana** at `http://localhost:3000`.
 
+
+4. Monitor the system with **Grafana** at [Visit](https://snapshots.raintank.io/dashboard/snapshot/yDCXL5gmHY4I7VVX1cnWr3osI7EPqv4Q)
 
 
 
