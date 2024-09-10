@@ -1,0 +1,6 @@
+web3
+pymongo
+python-dotenv
+requests
+python-telegram-bot
+

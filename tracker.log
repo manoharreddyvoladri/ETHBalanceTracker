@@ -1,0 +1,59 @@
+2024-09-10 18:47:53,593 INFO:Connected to Ethereum node successfully!
+2024-09-10 18:47:54,019 INFO:Starting to track deposits from block 20716202
+2024-09-10 18:48:31,839 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000178236130808058'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:48:32,905 INFO:New deposit found in block 20716277: 24ad2d67e06a4665f1b251267ed88fee42b437274d952296db9372dff21317d2
+2024-09-10 18:48:34,800 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000163357125773688'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:48:35,993 INFO:New deposit found in block 20716280: 59891c5ba7b598633f0bd0572b74aa9743ea0f69851965e78957a0e3722773e7
+2024-09-10 18:48:36,976 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.00017167556385318'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:48:38,026 INFO:New deposit found in block 20716281: aa09652124829ef31d9522375426dadb051a71ef604a831a6df76eeaf51ec58a
+2024-09-10 18:48:39,371 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000159309290811762'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:48:40,720 INFO:New deposit found in block 20716283: ba9b7b7ad2459c6ca7a6dcb21210de391a4c0293f71baab2f33e534704578edb
+2024-09-10 18:49:03,198 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000743653913850212'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:49:04,242 INFO:New deposit found in block 20716327: 044dc4871830e33904981100f571fae84e8d76c2a72b7600d38844552c2dfafa
+2024-09-10 18:50:59,706 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000129783849105576'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:51:00,749 INFO:New deposit found in block 20716574: 027db07198730d7db31a1555ceb70e2f53e8d23c58bd5b7e958d70b291e63717
+2024-09-10 18:53:18,007 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000141136404005646'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:53:19,201 INFO:New deposit found in block 20716874: 938909b0c0028340bc4947f43aab92fb9848e0afa4946c1b8f1cc9c17dd689fd
+2024-09-10 18:53:20,513 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.00015401584910385'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:53:21,679 INFO:New deposit found in block 20716876: 08a0bcbe34ad03fcbd1683847625e2921921cb2553a4617fb2f6b6f5dfbb953d
+2024-09-10 18:53:23,060 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000136835259954102'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:53:24,172 INFO:New deposit found in block 20716878: 1a0c2de2bbbbc9f5676ef2568ed15239a71bf4c1e73d440ba53a5a7b897cc3f2
+2024-09-10 18:53:25,168 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.00014209563608562'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:53:26,315 INFO:New deposit found in block 20716879: 5b9a32e89f8609fde4829090c7057c96f1f6291bd005c2ca0a24f55428dc314b
+2024-09-10 18:53:28,215 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.00014031430096698'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:53:29,356 INFO:New deposit found in block 20716882: c0263e6635ac6b16f141735ac0d3f0f4bd1e15ebeb0acde5dc2f0a56d1217467
+2024-09-10 18:53:30,592 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000167683008375099'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:53:31,711 INFO:New deposit found in block 20716883: 8febd964da4e0b7ba3e2faa66b7de35f13f3b7892cadc6f17a40919aa4f4a859
+2024-09-10 18:54:15,317 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000209239519461804'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:54:16,616 INFO:New deposit found in block 20716974: 3ec59f8c3017685c2426ac1f1991c91eca38a7e84fc3c59fdd8f819cf2784ed6
+2024-09-10 18:55:27,332 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.00028268091201207'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:55:28,421 INFO:New deposit found in block 20717124: e6bf96e72406d2d0eec1e7afd8334f305ab8ed43837c0cc01ed76bcb31d7a106
+2024-09-10 18:56:32,889 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000319565733477942'), of type: <class 'decimal.Decimal'>
+2024-09-10 18:56:33,942 INFO:New deposit found in block 20717268: 2f3d59311e1a1f637afdb53414f98fbeb3f113aae1d05f75ae0681079e7e821b
+2024-09-10 19:08:05,438 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000145187264818134'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:08:06,544 INFO:New deposit found in block 20718662: 763c4f76de14f1d06c87df3d8dd688ad00416a33b12198d27dc9329faac1bccb
+2024-09-10 19:08:07,991 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000156835148169024'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:08:09,108 INFO:New deposit found in block 20718664: 29a8e57b1f90fda8299a365106f297c34b68e9d0880036bd452d4239b83d5fe4
+2024-09-10 19:10:27,993 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.0003863795'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:10:29,340 INFO:New deposit found in block 20718921: 3edb5f98d2ba97e9955be535ba4bc5d8b598e0f1527acf5ae14879b04cf59d9d
+2024-09-10 19:10:31,880 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000328341'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:10:32,965 INFO:New deposit found in block 20718925: 28e8885d28d0a137b8e54d74f2c5e432e335928c752484d40fa5e4a9db06c2d5
+2024-09-10 19:10:35,975 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000349692642'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:10:37,064 INFO:New deposit found in block 20718930: c0f40ad1f7459ddb877e1f9dcde7282a0623c554706a38ece40a382a4b267dea
+2024-09-10 19:10:39,779 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000328419'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:10:40,914 INFO:New deposit found in block 20718935: cac6b19d8bf211b63bcedd0d165f63943f2539390abe8bc7b0913a02fc644daf
+2024-09-10 19:10:44,396 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000367107'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:10:45,616 INFO:New deposit found in block 20718940: f54358ec6b52250a0db558482ff383e71ac82536ddb5b0c912ccbbbf083c67c5
+2024-09-10 19:10:49,224 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000328419'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:10:50,342 INFO:New deposit found in block 20718945: f0816848553d06a262351435156e684331354ae09b623ec8072d4765e5a21cca
+2024-09-10 19:10:53,625 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000347763'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:10:54,829 INFO:New deposit found in block 20718950: b211a60976de72109ee0a7704781ed93b6779fafbd7bd7edf2e3945dc2fb3d82
+2024-09-10 19:10:57,742 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000328341'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:10:58,791 INFO:New deposit found in block 20718955: 1d365378ccbc866ded5d4e40f1858ad39a33a85405c88a8dfdfe2dbc2fad3e54
+2024-09-10 19:11:01,609 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.0004057235'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:11:02,659 INFO:New deposit found in block 20718960: f6e81af0013f8d5a1e219b4a00e472c0829e9815af26ad96ab5e72d35c305978
+2024-09-10 19:11:05,615 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000328419'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:11:06,782 INFO:New deposit found in block 20718965: 6cf178c99a3370c21ba5c4024596a61b88b0230a8e3f66b16443a7966f5dfad7
+2024-09-10 19:11:10,154 ERROR:Error saving deposit to MongoDB: cannot encode object: Decimal('0.000347763'), of type: <class 'decimal.Decimal'>
+2024-09-10 19:11:11,196 INFO:New deposit found in block 20718970: ef0eba75b7b13ed0ba624de5838415fb1e6b038e0c3b70209df28c980b58c23d
+2024-09-10 19:11:17,573 ERROR:An error occurred during tracking: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
